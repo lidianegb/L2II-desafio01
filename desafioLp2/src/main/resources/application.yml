@@ -1,0 +1,4 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://lidiane:oIVkEc9y7O3oOeWl@lp2-cluster-01.us15n.mongodb.net/lp2db
